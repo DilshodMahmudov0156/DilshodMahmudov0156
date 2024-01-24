@@ -1,12 +1,14 @@
-### Hi there 👋
+<h4>Hello Mister/Miss !!!</h4>
 
-<h1>I am Dilshod Mahmudov</h1>
+<h3>I am Dilshod Mahmudov</h3>
+<h5>I am glad for your attention! and why you enter my github profile</h5>
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
