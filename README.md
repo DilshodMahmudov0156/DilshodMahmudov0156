@@ -4,6 +4,7 @@
 <h5>I am glad for your attention! and why you enter my github profile</h5>
 <h4>I work with this technologies</h4>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react-js icon" style="width: 100px; height: auto;"/>
+<img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
