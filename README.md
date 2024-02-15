@@ -7,6 +7,7 @@
 <div style="display: flex;">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react-js icon" style="width: 100px; height: auto;"/>
   <img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
   
 </div>
 
