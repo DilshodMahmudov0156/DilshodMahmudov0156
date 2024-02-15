@@ -5,14 +5,17 @@
 <img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
 <h4>I work with this technologies</h4>
 <div style="display: flex;">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react-js icon" style="width: 100px; height: auto;"/>
-  <img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
   
 </div>
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react-js icon" style="width: 100px; height: auto;"/>
+  <img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
 <img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
