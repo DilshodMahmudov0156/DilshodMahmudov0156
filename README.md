@@ -5,8 +5,10 @@
 <img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
 <h4>I work with this technologies</h4>
 <div style="display: flex;">
+  <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="webpack icon" style="width: 100px; height: auto;"/>
   
 </div>
+https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
