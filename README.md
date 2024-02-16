@@ -8,7 +8,6 @@
   <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="webpack icon" style="width: 100px; height: auto;"/>
   
 </div>
-https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
