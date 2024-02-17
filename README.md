@@ -2,7 +2,7 @@
 
 <h3>I am Dilshod Mahmudov</h3>
 <h5>I am glad for your attention! and why you enter my github profile</h5>
-<img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Hand-Shake icon" style="width: 100px; height: auto;"/>
+<img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Hand-Wave icon" style="width: 100px; height: auto;"/>
 <h4>I work with this technologies</h4>
 <div style="display: flex;">
   <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="webpack icon" style="width: 100px; height: auto;"/>
