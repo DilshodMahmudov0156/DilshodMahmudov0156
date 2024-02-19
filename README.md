@@ -1,8 +1,7 @@
 <h4>Hello Mister/Miss !!!</h4>
-
+<img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="hand-wave icon" style="width: 100px; height: auto;"/>
 <h3>I am Dilshod Mahmudov</h3>
 <h5>I am glad for your attention! and why you enter my github profile</h5>
-<img src="https://media4.giphy.com/media/O1zckCYfJm17YUtLwW/giphy.gif?cid=6c09b952evh1eslwx0flipjs5pmxlp3wupg2ho42onc9speg&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="hand-wave icon" style="width: 100px; height: auto;"/>
 <h5>I have been working in programing for 3 years!</h5>
 <h4>I work with this technologies</h4>
 <div style="display: flex;">
