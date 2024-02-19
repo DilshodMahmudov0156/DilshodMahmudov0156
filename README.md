@@ -10,7 +10,6 @@
   <img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub icon" style="width: 100px; height: auto;"/>
 </div>
-
 <h5>see my projects and enjoy for these!</h5>
 
 <!--
