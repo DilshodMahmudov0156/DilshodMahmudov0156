@@ -7,7 +7,7 @@
   
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React-JS icon" style="width: 100px; height: auto;"/>
   
-  
+
 </div>
 <h5>see my projects and enjoy for these!</h5>
 
