@@ -6,7 +6,7 @@
 <div style="display: flex;">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React-JS icon" style="width: 100px; height: auto;"/>
   <img src="https://avatars.githubusercontent.com/u/2918581?v=4" alt="Bootstrap icon" style="width: 100px; height: auto;"/>
-  <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="Webpack icon" style="width: 100px; height: auto;"/>
+  
   
 </div>
 <h5>see my projects and enjoy for these!</h5>
@@ -15,7 +15,7 @@
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub icon" style="width: 100px; height: auto;"/>
-  
+  <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="Webpack icon" style="width: 100px; height: auto;"/>
   
   
   <img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" alt="Webpack icon" style="width: 100px; height: auto;"/>
