@@ -1,8 +1,5 @@
 <h4>Hello!</h4>
 <h3>I am Dilshod Mahmudov</h3>
-<h5>I am glad for your attention! and why you enter my github profile</h5>
-<h5>I have been working in programing for 3 years!</h5>
-<h5>see my projects and enjoy for these!</h5>
 
 
 <!--
