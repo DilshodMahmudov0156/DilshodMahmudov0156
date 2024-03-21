@@ -1,5 +1,4 @@
 <h4>Hello!</h4>
-<h3>I am Dilshod Mahmudov</h3>
 
 
 <!--
