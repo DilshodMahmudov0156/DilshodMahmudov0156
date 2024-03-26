@@ -1,6 +1,7 @@
 <h4>I am -</h4>
 <h4>Front-end engineer</h4>
 <h4>i started working on myself</h4>
+<h4>i love studying</h4>
 
 
 <!--
