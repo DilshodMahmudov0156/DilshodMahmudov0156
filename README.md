@@ -3,6 +3,7 @@
 <h4>i started working on myself</h4>
 <h4>i love studying</h4>
 <h4>i have an experience with react-js</h4>
+<h4>i have been in the web-programming-world for 3 years</h4>
 
 
 <!--
