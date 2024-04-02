@@ -1,4 +1,4 @@
-<h4>I am -</h4>
+<h4>I am - Dilshod Mahmudov!</h4>
 <h4>Front-end engineer</h4>
 <h4>i started working on myself end of 2022</h4>
 <h4>i love studying</h4>
