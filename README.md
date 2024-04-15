@@ -1,4 +1,4 @@
-<h3>👋 Hi there!!!</h3>
+
 
 
 
@@ -6,6 +6,7 @@
 
 <!--
 **DilshodMahmudov0156/DilshodMahmudov0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+<h3>👋 Hi there!!!</h3>
 <h4>I am - Dilshod Mahmudov!</h4>
 <h4>Front-end engineer</h4>
 <h4>If my some projects does not work, please contact with me and ask me why is it so! ok?</h4>
