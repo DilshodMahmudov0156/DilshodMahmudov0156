@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">Hello there! 👋</h3>
+<h3>Hello there! 👋</h3>
 <br>
 <p>I was born in 21/08/2003 and I am from Uzbekistan. My native language is 'Uzbek', but I learned 'English' and I am interested in 'Coding'. So, I like finding out problems that exist in the Module. I feel myself as expert programmer when I find solution for the problem in the module. I love working on myself and I can not live without it.</p>
 
