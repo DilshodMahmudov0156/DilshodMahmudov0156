@@ -1,5 +1,5 @@
 <h3>
-  Hello there! <img src="https://camo.githbusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="handshake" width="40px">
+  Hello there! <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="handshake" width="30px">
 </h3>
 <br>
 <p>I was born in 21/08/2003 and I am from Uzbekistan. My native language is 'Uzbek', but I learned 'English' and I am interested in 'Coding'. So, I like finding out problems that exist in the Module. I feel myself as expert programmer when I find solution for the problem in the module. I love working on myself and I can not live without it.</p>
