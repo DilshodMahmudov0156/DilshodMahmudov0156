@@ -8,8 +8,8 @@
 <p>
   I was born in 21/08/2003 and I am from Uzbekistan. My native language is 'Uzbek', but I learned 'English' and I am interested in 'Coding'. So, I like finding out problems that exist in the Module. I feel myself as expert programmer when I find solution for the problem in the module. I love working on myself and I can not live without it.
 </p>
-<h4>I work with these tools</h4>
 <hr>
+<h4>I work with these tools</h4>
 <code><img src="https://camo.githubusercontent.com/ba77247456c4e0bf507426fc2a8412574d50980f0232572f8dfc83a09646d4f3/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f68746d6c352d6c6f676f2d706e672f68746d6c352d6c6f676f2d68746d6c2d6c6f676f2d31302e706e67" alt="" width="38px"></code>
 <code><img src="https://camo.githubusercontent.com/1cbe73853c03278042bc5cfdbc192afff40fd093e33b33786cac698ca49ce747/68747470733a2f2f626174666c61742e6f72672f7468656d65732f64656661756c742f696d672f6373732d6c6f676f2e706e67" alt="" width="26px"></code>
 <code><img src="https://camo.githubusercontent.com/2757ea6cb7a9cf1ed2eb187383910afd3f1db700c5073980c9dbd5a72bfa0fcd/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f622d69636f6e2f622d69636f6e2d302e6a7067  " alt="" width="35px"></code>
